@@ -1,0 +1,4 @@
+1: [(3, ':', 17, ':', 11)] : logserve.log , ['el', 'mensaje', 'principal', 'pa', 'los', 'servidores']
+2: [(3, ':', 17, ':', 31)] : logserve.log , ['el', 'mensaje', 'principal', 'pa', 'los', 'servidores']
+3: [(3, ':', 17, ':', 32)] : logserve.log , ['el', 'mensaje', 'principal', 'pa', 'los', 'servidores']
+4: [(3, ':', 17, ':', 33)] : logserve.log , ['el', 'mensaje', 'principal', 'pa', 'los', 'servidores']

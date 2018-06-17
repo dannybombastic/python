@@ -1,0 +1,8 @@
+1: [(3, ':', 8, ':', 10)] : nuevolog.log , ['el', 'mensaje', 'principal']
+2: [(3, ':', 8, ':', 18)] : nuevolog.log , ['el', 'mensaje', 'principal']
+3: [(3, ':', 8, ':', 19)] : nuevolog.log , ['el', 'mensaje', 'principal']
+4: [(3, ':', 8, ':', 20)] : nuevolog.log , ['el', 'mensaje', 'principal']
+5: [(3, ':', 8, ':', 21)] : nuevolog.log , ['el', 'mensaje', 'principal']
+6: [(3, ':', 8, ':', 22)] : nuevolog.log , ['el', 'mensaje', 'principal']
+7: [(3, ':', 8, ':', 23)] : nuevolog.log , ['el', 'mensaje', 'principal']
+8: [(3, ':', 8, ':', 24)] : nuevolog.log , ['el', 'mensaje', 'principal']

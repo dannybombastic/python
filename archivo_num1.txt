@@ -1,0 +1,4 @@
+una linea de texto en un archivo
+ otra linea de texto
+esta linea se ha modificado en memoria
+ estamos locos o que?
